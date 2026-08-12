@@ -108,7 +108,7 @@ textarea.form-control{min-height:150px}
   background-image:radial-gradient(circle at 90% 10%,rgba(217,119,69,.28),transparent 30%);
   color:#fff;border-radius:32px;padding:46px
 }
-footer{background:#0F302E;color:#DCE7E6; font-size:18px; margin-top: 10px;}
+footer{background:#0F302E;color:#DCE7E6; font-size:18px}
 footer a{color:#DCE7E6 ; margin-top: 10px;}
 footer a:hover{color:#FFB78F}
 .footer-title{color:#fff;font-weight:900}
